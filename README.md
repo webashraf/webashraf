@@ -23,15 +23,16 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
-📞 Phone: +880 01928351382
-<br> 📧 Email: aliashraftamim@gmail.om
+
 <p align="left">
 </p>
 
 # 💫 About Me:
 🔭 I’m currently working on bdCalling it limited.<br>🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>💬 Ask me about JavaScript and React.js<br>📫 How to reach me: aliashraftamim@gmail.com<br>⚡ Fun fact: A mug of coffee for a bug.
 
+<h3 align="left">Connect with me:</h3>
+📞 Phone: +880 01928351382
+<br> 📧 Email: aliashraftamim@gmail.om
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/aliashraf35) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aliashraf1233/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/web_ashraf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ashraf-977b09204/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17280278/webashraf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/web_ashraf) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/web_ashraf) 
