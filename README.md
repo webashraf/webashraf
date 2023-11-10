@@ -30,8 +30,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ###
 
 <h3 align="left">Connect with me:</h3>
-- 📞 Phone: +880 01928351382
-- 📧 Email: aliashraftamim@gmail.om
+<br> 📞 Phone: +880 01928351382
+<br> 📧 Email: aliashraftamim@gmail.om
 <p align="left">
 </p>
 
