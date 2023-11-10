@@ -17,9 +17,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-  <div align="center">
-     [![](https://visitcount.itsvg.in/api?id=webashraf&icon=0&color=0)](https://visitcount.itsvg.in)
-  </div>
 <h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
