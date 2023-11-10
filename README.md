@@ -41,3 +41,14 @@ I made this project just for fun, it allows you to create nice and simple GitHub
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webashraf&layout=compact&langs_count=8&card_width=320" />
 </a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
+## Hey 👋, This is Ali Ashraf
+[![Gmail Badge](https://img.shields.io/badge/-aliashraftamim@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aliashraftamim@gmail.com)](mailto:aliashraftamim@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/aliashraf-977b09204/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/aliashraf-977b09204//)](https://www.linkedin.com/in/https://www.linkedin.com/in/aliashraf-977b09204//) [![Github Badge](https://img.shields.io/badge/-https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing/)](https://www.github.com/https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing/) [![Twitter Badge](https://img.shields.io/badge/-https://twitter.com/web_ashraf-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/web_ashraf/)](https://www.twitter.com/https://twitter.com/web_ashraf/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://teal-florentine-0e550e.netlify.app//)](https://teal-florentine-0e550e.netlify.app//) <p align='left'>I'm skilled frontend developer</p><p align='left'> You can view my resume <a href='aliashraftamim@gmail.com ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing alt=https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing&show_icons=true&include_all_commits=true)](https://github.com/https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing&layout=compact)](https://github.com/https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing/github-readme-stats)
+
