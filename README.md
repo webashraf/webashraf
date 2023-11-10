@@ -22,15 +22,13 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
-
 ###
-
 <h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 ###
 
 <h3 align="left">Connect with me:</h3>
-<br> 📞 Phone: +880 01928351382
+📞 Phone: +880 01928351382
 <br> 📧 Email: aliashraftamim@gmail.om
 <p align="left">
 </p>
