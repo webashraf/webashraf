@@ -20,10 +20,10 @@
 <h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <hr />
-## 💫 About Me:
+<h3 align="left">💫 About Me:</h3>
 🔭 I’m currently working on bdCalling it limited.<br>🌱 I’m currently learning Next.js, Redux, and TypeScript.<br>💬 Ask me about JavaScript and React.js<br>📫 How to reach me: aliashraftamim@gmail.com<br>⚡ Fun fact: A mug of coffee for a bug.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤷‍♀️ Connect with me:</h3>
 📞 Phone: +880 01928351382
 <br> 📧 Email: aliashraftamim@gmail.om
 
