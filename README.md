@@ -51,9 +51,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing&show_icons=true&include_all_commits=true)](https://github.com/https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing&layout=compact)](https://github.com/https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing/github-readme-stats)
+
+
 https://github-stats-alpha.vercel.app/api?username={your-github-username}&cc=000&tc=fff&ic=fff&bc=000
 
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color
+
