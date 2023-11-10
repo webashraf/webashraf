@@ -1,5 +1,3 @@
-### Hi there 👋, This is Ali Ashraf
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBpZ1x-P1_5AC3D1njnEYgXq1yL1TKiceYNgL84l1NE1w_Cy-I6lOTgfM-UPRvFr1b3hJ0vUf0YQozuf8rSrSk5xltn=w1366-h607)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
@@ -27,16 +25,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Ali Ashraf</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
