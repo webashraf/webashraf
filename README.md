@@ -9,11 +9,18 @@
 ###
 
 <div align="center">
-
-  <a href="www.gooogle.com">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/ali-ashraf-977b09204/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=stackoverflow&label=&color=FE7A16&logoColor=FE7A16&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://teal-florentine-0e550e.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=medium&label=&color=039BE5&logoColor=039BE5&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>
 </div>
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
