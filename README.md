@@ -19,3 +19,6 @@ Skills: HTML/ CSS / Bootstrap / REACT Bootstrap / Tailwind CSS / JavaScript/ ES6
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=webashraf&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
