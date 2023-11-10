@@ -55,4 +55,4 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 https://github-stats-alpha.vercel.app/api?username={webashraf}&cc=000&tc=fff&ic=fff&bc=000
 
-
+https://github-stats-alpha.vercel.app/api?username={webashraf}
