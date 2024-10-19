@@ -5,6 +5,29 @@
 <div align="center">
   <img src="https://res.cloudinary.com/dhp4mffqp/image/upload/v1729367447/Blue_Futuristic_Programmer_Business_Card_srcqhn.png"  />
 </div>
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://www.guinnessworldrecords.com/news/2024/4/images/yuji-itadori-768391.jpg"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=webashraf.webashraf&left_color=cadetblue&right_color=peru&left_text=Viewers"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/webashraf/webashraf/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
