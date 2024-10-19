@@ -38,7 +38,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ali Ashraf🍃</h1>
-<h3 align="center">A passionate full-stack developer🍂</h3>
+<h3 align="center">A MERN stack developer with expertise in Next.js, React, Express.js, and MongoDB. I craft seamless web experiences using Tailwind CSS, Ant Design, and Shadcn, while ensuring robust backends with Mongoose. Skilled in integrating tools like 
+Redux, Axios, TaStack, NextAuth, JWT, and payment systems like Stripe, I also bring creative flair through WordPress, Webflow, and design tools like Canva.🍂</h3>
 <hr />
 <h3 align="left">💫 About Me:</h3>
 - 🔭 I’m currently unemployed. <br> - 🌱 I’m currently learning GSAP, and farmer-motion.<br> - 💬 Ask me about JavaScript and React.js<br> - 📫 How to reach me: aliashraftamim@gmail.com<br> - ⚡ Fun fact: A mug of coffee for a bug.
