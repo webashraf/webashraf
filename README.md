@@ -7,20 +7,6 @@
 </div>
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://www.guinnessworldrecords.com/news/2024/4/images/yuji-itadori-768391.jpg"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=webashraf.webashraf&left_color=cadetblue&right_color=peru&left_text=Viewers"  />
-</div>
-###
 
 ###
 
@@ -47,7 +33,10 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=webashraf.webashraf&left_color=cadetblue&right_color=peru&left_text=Viewers"  />
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=webashraf&"  />
 </div>
 <h1 align="center">Hi 👋, I'm Ali Ashraf🍃</h1>
 <h3 align="center">A passionate frontend developer🍂</h3>
