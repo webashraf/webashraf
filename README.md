@@ -15,9 +15,8 @@
   <a href="https://drive.google.com/file/d/1hr6gElr5t2RP1jxgRTGJ92YLIOlAysdS/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Resume&logo=resume&label=&color=FE7A16&logoColor=FE7A16&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="https://teal-florentine-0e550e.netlify.app/" target="_blank">
+  <a href="https://ali-ashraf.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=039BE5&logoColor=039BE5&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-    ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
   </a>
 
   <a href="mailto:aliashraftamim@gmail.com" target="_blank">
