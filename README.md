@@ -20,13 +20,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=webashraf.webashraf&left_color=cadetblue&right_color=peru&left_text=Viewers"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/webashraf/webashraf/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
