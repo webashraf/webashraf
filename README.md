@@ -3,7 +3,7 @@
 
 ###
 <div align="center">
-  <img src="https://res.cloudinary.com/dhp4mffqp/image/upload/v1729367447/Blue_Futuristic_Programmer_Business_Card_srcqhn.png"  />
+  <img src="https://res.cloudinary.com/dhp4mffqp/image/upload/v1729401799/Blue_Futuristic_Programmer_Business_Card_2_xlzl7v.png"  />
 </div>
 
 ###
