@@ -6,7 +6,6 @@
   <img src="https://res.cloudinary.com/dhp4mffqp/image/upload/v1729367447/Blue_Futuristic_Programmer_Business_Card_srcqhn.png"  />
 </div>
 
-
 ###
 
 
@@ -38,7 +37,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ali Ashraf🍃</h1>
-<h3 align="center">A MERN stack developer with expertise in Next.js, React, Express.js, Mongoose, and MongoDB. I craft seamless web experiences using Tailwind CSS, Metarial-Tailwind, DaisyUi, Ant Design, Shadcn, and NextUI, while ensuring robust design. Skilled in integrating tools like Redux, Axios, TaStack, NextAuth, JWT, and payment systems like Stripe, I also bring creative flair through WordPress, Webflow, and design tools like Canva.🍂</h3>
+<p align="center">A MERN stack developer with expertise in Next.js, React, Express.js, Mongoose, and MongoDB. I craft seamless web experiences using Tailwind CSS, Metarial-Tailwind, DaisyUi, Ant Design, Shadcn, and NextUI, while ensuring robust design. Skilled in integrating tools like Redux, Axios, TaStack, NextAuth, JWT, and payment systems like Stripe, I also bring creative flair through WordPress, Webflow, and design tools like Canva.🍂</p>
 <hr />
 <h3 align="left">💫 About Me:</h3>
 - 🔭 I’m currently unemployed. <br> - 🌱 I’m currently learning GSAP, and farmer-motion.<br> - 💬 Ask me about JavaScript and React.js<br> - 📫 How to reach me: aliashraftamim@gmail.com<br> - ⚡ Fun fact: A mug of coffee for a bug.
